@@ -9,7 +9,7 @@ Video Juego Desarrollado en Unity con C#
 ## Enlace a la versión WebGL ![WebGL](https://img.shields.io/badge/WebGL-%23F7DF1E?style=for-the-badge&logo=webgl&logoColor=black)
 
 Puedes probar el proyecto en su versión WebGL haciendo clic en el siguiente enlace:
-[¡Jugar al proyecto WebGL!]([URL-del-proyecto-webgl](https://mar0212.itch.io/proyecto-final-sociedades-digitales))
+[¡Jugar al proyecto En Itchio con su version WebGL!](https://mar0212.itch.io/proyecto-final-sociedades-digitales)
 
 # 📝 Acerca del Proyecto
 
