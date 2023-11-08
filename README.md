@@ -8,7 +8,7 @@ Video Juego Desarrollado en Unity con C#
 
 # 📝 Acerca del Proyecto
 
-![1](https://github.com/MDMSerra/ProyectoFinalSociedadesDigitales/assets/122322927/599524cf-3025-40c6-bd86-9b3a3f61daff)
+![1](https://github.com/MDMSerra/ProyectoFinalSociedadesDigitales/assets/122322927/a4f0e901-5fb8-4928-82a5-6504901ccafb)
 ![2](https://github.com/MDMSerra/ProyectoFinalSociedadesDigitales/assets/122322927/92b6cebf-fca7-44a1-8169-75c367ec3020)
 ![3](https://github.com/MDMSerra/ProyectoFinalSociedadesDigitales/assets/122322927/ea147e15-08b3-4702-90e2-ce7522c41f17)
 ![4](https://github.com/MDMSerra/ProyectoFinalSociedadesDigitales/assets/122322927/beccc42a-9817-43bf-8338-0910538cfaf0)
